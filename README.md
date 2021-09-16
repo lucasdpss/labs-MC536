@@ -29,3 +29,7 @@
 ## `lab03`
 
 * [Laboratório 3](lab03/)
+
+## `lab04`
+
+* [Laboratório 4](lab04/)
