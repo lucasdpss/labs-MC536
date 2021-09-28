@@ -14,13 +14,13 @@ Estrutura de pastas:
 | campo | valor |
 |------------|----------------------------------------|
 | referência | `CUNHA SÁ, Bruno; MULLER, Gustavo; BANNI, Maicon; SANTOS, Wagner; LAGE, Marcos; ROSSETI, Isabel; FROTA, Yuri; OLIVEIRA, Daniel. (2021). PolRoute-DS: um Dataset de Dados Criminais para Geração de Rotas de Patrulhamento Policial ` |
-| link       | ![Link Artigo em PDF](https://drive.google.com/file/d/1NoOT3YbCe0irD6c0-xZgRHLc0xNBIlrg/view)|
-| dataset | ![Link PolRoute-DS](https://osf.io/mxrgu/) |
+| link       | [Link Artigo em PDF](https://drive.google.com/file/d/1NoOT3YbCe0irD6c0-xZgRHLc0xNBIlrg/view)|
+| dataset | [Link PolRoute-DS](https://osf.io/mxrgu/) |
 | formato | CSV |
 
 ## Resumo
 
-    O artigo tem como objetivo disponibilizar um dataset que pode ser utilizado para definição de rotas de patrulhas policiais. Os dados foram extraídos de órgãos externos como por exemplo SSP-SP (Secretaria de Segurança Pública do Estado de São Paulo), nos quais foi possível atribuir um local, data, hora e tipo de ocorrência. Essa ideia está relacionada ao conceito de Cidades Inteligentes (i.e Smart Cities), que vem ganhando muita relevância atualmente. O primeiro passo para construir esse dataset foi extrair os dados relevantes proveniente dos órgãos de segurança pública, em seguida construir um modelo em grafo para a cidade, tomando o cuidado de não deixar uma aresta sendo uma rua toda e sim uma aresta ser um pedaço de uma rua de tamanho fixo e finalmente, linkar tais arestas às ocorrências criminais. Assim, é possível obter um “mapa” de crimes para cada região, zona ou cidade. Os dados de criminalidade estão disponíveis, juntamente com o mapa, em https://osf.io/mxrgu/. No instante da publicação do artigo, há dados da cidade de São Paulo.
+O artigo tem como objetivo disponibilizar um dataset que pode ser utilizado para definição de rotas de patrulhas policiais. Os dados foram extraídos de órgãos externos como por exemplo SSP-SP (Secretaria de Segurança Pública do Estado de São Paulo), nos quais foi possível atribuir um local, data, hora e tipo de ocorrência. Essa ideia está relacionada ao conceito de Cidades Inteligentes (i.e Smart Cities), que vem ganhando muita relevância atualmente. O primeiro passo para construir esse dataset foi extrair os dados relevantes proveniente dos órgãos de segurança pública, em seguida construir um modelo em grafo para a cidade, tomando o cuidado de não deixar uma aresta sendo uma rua toda e sim uma aresta ser um pedaço de uma rua de tamanho fixo e finalmente, linkar tais arestas às ocorrências criminais. Assim, é possível obter um “mapa” de crimes para cada região, zona ou cidade. Os dados de criminalidade estão disponíveis, juntamente com o mapa, em https://osf.io/mxrgu/. No instante da publicação do artigo, há dados da cidade de São Paulo.
 
 ## Perguntas de pesquisa/análises
 
