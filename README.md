@@ -38,3 +38,7 @@
 
 * [Laboratório 5](lab05/)
 
+## `lab06`
+
+* [Laboratório 6](lab06/)
+
