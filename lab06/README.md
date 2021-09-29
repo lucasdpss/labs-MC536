@@ -14,7 +14,7 @@ Estrutura de pastas:
 | campo | valor |
 |------------|----------------------------------------|
 | referência | `CUNHA SÁ, Bruno; MULLER, Gustavo; BANNI, Maicon; SANTOS, Wagner; LAGE, Marcos; ROSSETI, Isabel; FROTA, Yuri; OLIVEIRA, Daniel. (2021). PolRoute-DS: um Dataset de Dados Criminais para Geração de Rotas de Patrulhamento Policial ` |
-| link       | [Link Artigo em PDF](https://drive.google.com/file/d/1NoOT3YbCe0irD6c0-xZgRHLc0xNBIlrg/view)|
+| link       | [Link Artigo em PDF](https://drive.google.com/file/d/10Q_T1TANC5BtEBpPexsTv7-gfOLva5X2/view)|
 | dataset | [Link PolRoute-DS](https://osf.io/mxrgu/) |
 | formato | CSV |
 
