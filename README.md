@@ -16,6 +16,8 @@
 ├── lab05     <- quinto lab
 │
 └── lab06    <- sexto lab
+│
+└── lab07    <- sétimo lab
 ~~~
 
 ## `lab01`
@@ -41,4 +43,8 @@
 ## `lab06`
 
 * [Laboratório 6](lab06/)
+
+## `lab07`
+
+* [Laboratório 7](lab07/)
 
