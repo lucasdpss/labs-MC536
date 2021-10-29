@@ -12,7 +12,7 @@ Estrutura de pastas:
 * ` 201867 `: ` Lucas de Paula Soares `
 
 ## Exemplo do Banco de Dados de Grafos - grafo de conhecimento
-![grafo_exemplo](images/grafo_exemplo.png)
+![grafo_exemplo](images/grafo_exemplo.PNG)
 
 Através do exemplo notamos as triplas (recurso, propriedade, valor) e também (recurso, propriedade, recurso). Por exemplo, entre quadrantes de localização no mapa, temos a tripla (quadrante1, adjacente, quadrante2). Para crimes no quadrante temos a tripla (crime1, localizado, quadrante1). Temos também as triplas envolvendo postos policiais e um quadrante, e poste de iluminação com quadrante, (posto policial 1, localizado, quadrante2), (poste iluminação1, localizado, quadrante2). Lembrando que nó `quadrante` representa um quadrado abrangendo um certo intervalo de coordenadas, em vez de um nó `local`, que representava apenas um par de coordenadas. Assim, podemos fazer análises mais significativas em relação a locais e distâncias. Os dados seriam disponibilizados como um grafo de conhecimento com estas triplas especificadas acima.
  
